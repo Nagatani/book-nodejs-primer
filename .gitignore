@@ -1,3 +1,7 @@
+# vivliostyle
+*.pdf
+
+
 # Logs
 logs
 *.log

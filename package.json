@@ -1,0 +1,15 @@
+{
+  "name": "book-nodejs-primer",
+  "version": "0.0.1",
+  "description": "Node.jsでWebアプリケーションを作るための入門書",
+  "scripts": {
+    "preview": "npx vivliostyle preview",
+    "build": "npx vivliostyle build"
+  },
+  "author": "Nagatani",
+  "license": "UNLICENSED",
+  "private": "true",
+  "dependencies": {
+    "@vivliostyle/cli": "^8.3.0"
+  }
+}

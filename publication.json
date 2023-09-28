@@ -1,0 +1,19 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "Principia",
+  "author": "Isaac Newton",
+  "dateModified": "2023-09-28T07:03:19.335Z",
+  "readingOrder": [
+    {
+      "url": "src/introduction.html",
+      "name": "Principia"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
